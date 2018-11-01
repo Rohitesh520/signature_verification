@@ -1,0 +1,9 @@
+ipython
+jupyter
+matplotlib
+keras
+numpy
+scipy
+h5py
+scikit-learn
+PyYAML
